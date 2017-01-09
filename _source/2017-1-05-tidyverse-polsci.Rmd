@@ -24,7 +24,7 @@ require(data.table)
 
 Next, we'll download my dataset on control of Congress/Presidency, as well as the Policy Agendas Project datasets inclusive of Congressional hearings on policy topics and Gallup's "Most Important Problem" dataset.
 
-```{r datasets, warning=FALSE}
+```{r datasets, cache=TRUE, warning=FALSE}
 # Pulling the Policy Agendas dataset on Congressional hearings
 hearings = fread("http://comparativeagendas.s3.amazonaws.com/datasetfiles/congressional_hearings.csv")
 
@@ -101,6 +101,10 @@ We next use `group_by()` to split the data by *year* and *majortopic* so that we
 ```
 
 We then summarize (note the 's' in the function name). The `summarise()` function effectively collapses data, computing summary statistics. In this case, we are summarizing within `year` and `majortopic` (using `group_by()` in the previous line). We generate a new variable `total` by taking `sum(x)`.
+
+```{r, eval=FALSE}
+  summarise(total = sum(x)) %>%
+```
 
 Next, we generage a new variable `cong.perc` through `mutate()` by taking each row's total count (the count of hearings on each issue within each year) divided by the total number of hearings in each year:
 

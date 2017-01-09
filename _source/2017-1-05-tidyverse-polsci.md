@@ -325,7 +325,7 @@ ggplot(data = filter(cong.mip, majortopic == 1),
   ggtitle("Public and Congressional Attention to Economic Issues")
 ```
 
-![plot of chunk econplot](/figure/source/2017-1-05-tidyverse-polsci/econplot-1.svg)
+![plot of chunk econplot](/figure/./2017-1-05-tidyverse-polsci/econplot-1.svg)
 
 ..while the public has historically tended to expend more attention on Civil Rights issues than Congress (`majortopic == 2`):
 
@@ -337,7 +337,7 @@ ggplot(data = filter(cong.mip, majortopic == 2),
   ggtitle("Public and Congressional Attention to Civil Rights Issues")
 ```
 
-![plot of chunk crplot](/figure/source/2017-1-05-tidyverse-polsci/crplot-1.svg)
+![plot of chunk crplot](/figure/./2017-1-05-tidyverse-polsci/crplot-1.svg)
 
 
 
