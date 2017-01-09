@@ -26,13 +26,15 @@ Next, we'll download my dataset on control of Congress/Presidency, as well as th
 
 ```{r datasets, cache=TRUE, warning=FALSE}
 # Pulling the Policy Agendas dataset on Congressional hearings
-hearings = fread("http://comparativeagendas.s3.amazonaws.com/datasetfiles/congressional_hearings.csv")
+hearings = fread("http://comparativeagendas.s3.amazonaws.com/datasetfiles/congressional_hearings.csv") %>%
+  as_data_frame()
 
 # Pulling the Policy Agendas dataset on Gallup's Most Important Problem
-mip = fread("http://comparativeagendas.s3.amazonaws.com/datasetfiles/Gallups_Most_Important_Problem.csv")
+mip = fread("http://comparativeagendas.s3.amazonaws.com/datasetfiles/Gallups_Most_Important_Problem.csv") %>%
+  as_data_frame()
 ```
 
-You might notice that I used `as_data_frame` to evaluate each of these datasets; this command turns these datasets into "tibbles" (another *tidyverse* term) that are more convenient than *R's* traditional `data.frame` structure. 
+You might notice that I "piped" the data through `as_data_frame` to evaluate each of these datasets; this command turns these datasets into "tibbles" (another *tidyverse* term) that are more convenient than *R's* traditional `data.frame` structure. 
 
 This is borne out by investigating the `mip` dataset; because it's a `data_frame`, the default output when viewed interactively is to show the first 10 observations:
 
