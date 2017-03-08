@@ -47,19 +47,19 @@ Wagner, Michael W., and Mike Gruszczynski. "Who Gets Covered? Ideological Extrem
  
 Gruszczynski, Mike, and Michael W. Wagner. "Information Flow in the 21st Century: The Theory of Agenda-Update." [*Mass Communication and Society,* 00: 1-25.](http://www.tandfonline.com/doi/abs/10.1080/15205436.2016.1255757?journalCode=hmcs20){:target="_blank"}
 
-Michaels, Sarah, and Mike Gruszczynski. 2016. "Deliberating on Missouri River Water Diversions in Congressional Committee Hearings." [*Journal of Contemporary Water Research & Education,* 158: 132-147.](http://onlinelibrary.wiley.com/doi/10.1111/j.1936-704X.2016.03224.x/full)
+Michaels, Sarah, and Mike Gruszczynski. 2016. "Deliberating on Missouri River Water Diversions in Congressional Committee Hearings." [*Journal of Contemporary Water Research & Education,* 158: 132-147.](http://onlinelibrary.wiley.com/doi/10.1111/j.1936-704X.2016.03224.x/full){:target="_blank"}
 
-Wagner, Michael W., and Mike Gruszczynski. 2016. "When Framing Matters: How Partisan and Journalistic Frames Affect Individual Opinions and Party Identification." [*Journalism & Communication Monographs,* 18(1): 5-48.](http://jmo.sagepub.com/content/early/2016/01/18/1522637915623965)
+Wagner, Michael W., and Mike Gruszczynski. 2016. "When Framing Matters: How Partisan and Journalistic Frames Affect Individual Opinions and Party Identification." [*Journalism & Communication Monographs,* 18(1): 5-48.](http://jmo.sagepub.com/content/early/2016/01/18/1522637915623965){:target="_blank"}
 
-Gruszczynski, Mike. 2015. "The Persistence and Survival of Campaign Controversies in Blog and Mainstream Media Coverage." In [*Controlling the Message: Campaigning and Governing in an Information Rich Environment,* eds. Justin S. Vaughn and Victoria Farrar-Myers. New York: NYU Press, 113-135.](https://books.google.com/books?hl=en&lr=&id=CZaIBwAAQBAJ&oi=fnd&pg=PA113&dq=info:VKaX8wiElakJ:scholar.google.com&ots=jF8v62TnwZ&sig=W3Lv_tfKm3q9phue4k3f4LR1kpg#v=onepage&q&f=false)
+Gruszczynski, Mike. 2015. "The Persistence and Survival of Campaign Controversies in Blog and Mainstream Media Coverage." In [*Controlling the Message: Campaigning and Governing in an Information Rich Environment,* eds. Justin S. Vaughn and Victoria Farrar-Myers. New York: NYU Press, 113-135.](https://books.google.com/books?hl=en&lr=&id=CZaIBwAAQBAJ&oi=fnd&pg=PA113&dq=info:VKaX8wiElakJ:scholar.google.com&ots=jF8v62TnwZ&sig=W3Lv_tfKm3q9phue4k3f4LR1kpg#v=onepage&q&f=false){:target="_blank"}
 
-Gruszczynski, Mike, and Sarah Michaels. 2014. "Localized Concerns, Scientific Argumentation, Framing, and Federalism: The Case of the Devils Lake Water Diversion." [*Journal of Natural Resources Policy Research,* 6(2-3): 173-193.](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1143&context=publicpolicypublications)
+Gruszczynski, Mike, and Sarah Michaels. 2014. "Localized Concerns, Scientific Argumentation, Framing, and Federalism: The Case of the Devils Lake Water Diversion." [*Journal of Natural Resources Policy Research,* 6(2-3): 173-193.](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1143&context=publicpolicypublications){:target="_blank"}
 
-Gruszczynski, Mike, Amanda Balzer, Carly M. Jacobs, Kevin B. Smith, and John R. Hibbing. 2013. "The Physiology of Political Participation." [*Political Behavior,* 35(1): 135-152.](http://link.springer.com/article/10.1007/s11109-012-9197-x)
+Gruszczynski, Mike, Amanda Balzer, Carly M. Jacobs, Kevin B. Smith, and John R. Hibbing. 2013. "The Physiology of Political Participation." [*Political Behavior,* 35(1): 135-152.](http://link.springer.com/article/10.1007/s11109-012-9197-x){:target="_blank"}
 
-Gruszczynski, Mike, and Sarah Michaels. 2012. "The Evolution of Elite Framing Following Enactment of Legislation." [*Policy Sciences,* 45(4): 359-384.](http://link.springer.com/article/10.1007/s11077-012-9153-y)
+Gruszczynski, Mike, and Sarah Michaels. 2012. "The Evolution of Elite Framing Following Enactment of Legislation." [*Policy Sciences,* 45(4): 359-384.](http://link.springer.com/article/10.1007/s11077-012-9153-y){:target="_blank"}
 
-Dodd, Michael D., Amanda Balzer, Carly M. Jacobs, Michael W. Gruszczynski, Kevin B. Smith, and John R. Hibbing. 2012. "The Political Left Rolls with the Good and the Political Right Confronts the Bad: Connecting Physiology and Cognition to Preferences." [*Philosophical Transactions of the Royal Society of London: Biological Sciences,* 367: 640-649.](http://rstb.royalsocietypublishing.org/content/367/1589/640.short)
+Dodd, Michael D., Amanda Balzer, Carly M. Jacobs, Michael W. Gruszczynski, Kevin B. Smith, and John R. Hibbing. 2012. "The Political Left Rolls with the Good and the Political Right Confronts the Bad: Connecting Physiology and Cognition to Preferences." [*Philosophical Transactions of the Royal Society of London: Biological Sciences,* 367: 640-649.](http://rstb.royalsocietypublishing.org/content/367/1589/640.short){:target="_blank"}
 
 
 **Book Contracts**  
