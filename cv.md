@@ -41,7 +41,10 @@ Thesis: Campaign Framing Among Blogs and the Mainstream Media
 University of Nebraska at Kearney
 
 
-**Peer-Reviewed Publications**  
+**Peer-Reviewed Publications** 
+
+Wagner, Michael W., and Mike Gruszczynski. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." In press at *Journalism and & Mass Communication Quarterly.*
+ 
 Gruszczynski, Mike, and Michael W. Wagner. "Information Flow in the 21st Century: The Theory of Agenda-Update." In press at [*Mass Communication and Society.*](http://www.tandfonline.com/doi/abs/10.1080/15205436.2016.1255757?journalCode=hmcs20)
 
 Michaels, Sarah, and Mike Gruszczynski. 2016. "Deliberating on Missouri River Water Diversions in Congressional Committee Hearings." [*Journal of Contemporary Water Research & Education,* 158: 132-147.](http://onlinelibrary.wiley.com/doi/10.1111/j.1936-704X.2016.03224.x/full)
