@@ -178,7 +178,7 @@ counties.elect <- counties.elect %>%
 
 And now we'll map it, using the same `ggplot` code as before while adding a `fill=` statement to fill in a gradient based on the percent differential between the two candidates. Additionally, we'll remove the gridlines and axis labels from the figure.
 
-```{r county.elect.map, warning = FALSE, dev='svg', fig.width=6, fig.height=4}
+```{r county.elect.map, warning = FALSE, dev='svg', fig.width=8, fig.height=6}
 # we're going to use the "scales" package to mute the color
 
 ggplot(data=counties.elect) + 
