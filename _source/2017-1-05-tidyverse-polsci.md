@@ -26,13 +26,15 @@ Next, we'll download my dataset on control of Congress/Presidency, as well as th
 
 ```r
 # Pulling the Policy Agendas dataset on Congressional hearings
-hearings = fread("http://comparativeagendas.s3.amazonaws.com/datasetfiles/congressional_hearings.csv")
+hearings = fread("http://comparativeagendas.s3.amazonaws.com/datasetfiles/congressional_hearings.csv") %>%
+  as_data_frame()
 
 # Pulling the Policy Agendas dataset on Gallup's Most Important Problem
-mip = fread("http://comparativeagendas.s3.amazonaws.com/datasetfiles/Gallups_Most_Important_Problem.csv")
+mip = fread("http://comparativeagendas.s3.amazonaws.com/datasetfiles/Gallups_Most_Important_Problem.csv") %>%
+  as_data_frame()
 ```
 
-You might notice that I used `as_data_frame` to evaluate each of these datasets; this command turns these datasets into "tibbles" (another *tidyverse* term) that are more convenient than *R's* traditional `data.frame` structure. 
+You might notice that I "piped" the data through `as_data_frame` to evaluate each of these datasets; this command turns these datasets into "tibbles" (another *tidyverse* term) that are more convenient than *R's* traditional `data.frame` structure. 
 
 This is borne out by investigating the `mip` dataset; because it's a `data_frame`, the default output when viewed interactively is to show the first 10 observations:
 
@@ -42,18 +44,20 @@ mip
 ```
 
 ```
-##         id year    percent majortopic Congress
-##    1:    1 1946         NA          1       79
-##    2:    2 1947 0.34795800          1       80
-##    3:    3 1948 0.22115400          1       80
-##    4:    4 1949 0.28812600          1       81
-##    5:    5 1950 0.23364500          1       81
-##   ---                                         
-## 1466: 1466 2011 0.05236300         25      112
-## 1467: 1467 2012 0.06049300         25      113
-## 1468: 1468 2013 0.10336827         25      113
-## 1469: 1469 2014 0.08388879         25      113
-## 1470: 1470 2015 0.08220624         25      114
+## # A tibble: 1,470 × 5
+##       id  year  percent majortopic Congress
+##    <int> <int>    <dbl>      <int>    <int>
+## 1      1  1946       NA          1       79
+## 2      2  1947 0.347958          1       80
+## 3      3  1948 0.221154          1       80
+## 4      4  1949 0.288126          1       81
+## 5      5  1950 0.233645          1       81
+## 6      6  1951 0.228571          1       82
+## 7      7  1952 0.214286          1       82
+## 8      8  1953       NA          1       83
+## 9      9  1954 0.333333          1       83
+## 10    10  1955       NA          1       84
+## # ... with 1,460 more rows
 ```
 
 This is pretty easy data to work with: basically we have a dataset made up of the year, policy topic in the *Policy Agendas Project* coding scheme (*majortopic*), percentage of survey respondents who said each topic was the most important problem facing the nation in that year (*mip.perc*), and the Congressional session for that year.
@@ -74,102 +78,28 @@ hearings
 ```
 
 ```
-##            id       source CISYear Unpublished Chamber filter_House
-##     1:      1    93-H161-1    1993           0       1            1
-##     2:      2    93-H161-2    1993           0       1            1
-##     3:      3    93-H161-3    1993           0       1            1
-##     4:      4    93-H161-4    1993           0       1            1
-##     5:      5    93-H161-5    1993           0       1            1
-##    ---                                                             
-## 96279: 103354 2014-H181-22    2014           0       1            1
-## 96280: 103355 2014-H181-23    2014           0       1            1
-## 96281: 103356 2014-H181-24    2014           0       1            1
-## 96282: 103357 2014-H181-25    2014           0       1            1
-## 96283: 103358 2014-H181-26    2014           0       1            1
-##        filter_Senate filter_Joint CISCommittee Sequence Month Congress
-##     1:             0            0          161        1    10      102
-##     2:             0            0          161        2    11      102
-##     3:             0            0          161        3    12      102
-##     4:             0            0          161        4     7      102
-##     5:             0            0          161        5     3      102
-##    ---                                                                
-## 96279:             0            0          181       22     1      113
-## 96280:             0            0          181       23     1      113
-## 96281:             0            0          181       24     3      113
-## 96282:             0            0          181       25     2      113
-## 96283:             0            0          181       26     3      113
-##        year FiscalYear Days Sessions Committee1 Subcommittee1 Committee2
-##     1: 1991       1992    1        5        102         10201        102
-##     2: 1991       1992    1        4        102         10204          0
-##     3: 1991       1992    4       11        102         10200          0
-##     4: 1992       1992    1        2        102         10205          0
-##     5: 1992       1992    1        0        102         10206        114
-##    ---                                                                  
-## 96279: 2014       2014    1        1        103         10307          0
-## 96280: 2013       2013    1        1        103         10307          0
-## 96281: 2013       2013    1        1        103         10307          0
-## 96282: 2013       2013    4        4        103         10307          0
-## 96283: 2013       2013    3        3        103         10306          0
-##        Subcommittee2 filter_Referral filter_Approp filter_Agency
-##     1:         10204               0             0             0
-##     2:             0               0             0             0
-##     3:             0               0             0             0
-##     4:             0               0             0             0
-##     5:         11403               0             0             0
-##    ---                                                          
-## 96279:             0               0             1             0
-## 96280:             0               0             1             0
-## 96281:             0               0             1             0
-## 96282:             0               0             1             0
-## 96283:             0               0             1             0
-##        filter_Program filter_Admin
-##     1:              0            0
-##     2:              0            0
-##     3:              0            0
-##     4:              0            0
-##     5:              0            0
-##    ---                            
-## 96279:              0            0
-## 96280:              0            0
-## 96281:              0            0
-## 96282:              0            0
-## 96283:              0            0
-##                                                                                        description
-##     1:                            GAO report, methodologies in nationwide food consumption survey.
-##     2:         Investigate fatal fire at food products chicken processing plant in North Carolina.
-##     3:                   Agricultural issues involved in the GATT multilateral trade negotiations.
-##     4:                                                                           US honey program.
-##     5: Conflicts over timber harvesting in Pacific Northwest habitats of the northern spotted owl.
-##    ---                                                                                            
-## 96279:                 No summary available, this is in the Consolidated Appropriations Act, 2014.
-## 96280:                 No summary available, this is in the Consolidated Appropriations Act, 2014.
-## 96281:                 No summary available, this is in the Consolidated Appropriations Act, 2014.
-## 96282:                 No summary available, this is in the Consolidated Appropriations Act, 2014.
-## 96283:                 No summary available, this is in the Consolidated Appropriations Act, 2014.
-##        USMajorTopic USsubTopicCode majortopic subtopic ReferralBills
-##     1:            4            499          4      499              
-##     2:            5            501          5      501              
-##     3:            4            401          4      401              
-##     4:            4            402          4      402              
-##     5:            7            709          7      709              
-##    ---                                                              
-## 96279:           20           2000         20     2000              
-## 96280:           20           2000         20     2000              
-## 96281:           20           2000         20     2000              
-## 96282:           20           2000         20     2000              
-## 96283:           20           2000         20     2000              
-##        StartDate                 AdditionalDates
-##     1:                                          
-##     2:                                          
-##     3:                                          
-##     4:                                          
-##     5:                                          
-##    ---                                          
-## 96279:    1/1/14                                
-## 96280:    1/1/13                                
-## 96281:   3/14/13                                
-## 96282:   2/14/13 3/13/2013; 4/16/2013; 4/24/2013
-## 96283:    3/5/13            3/14/2013; 3/19/2013
+## # A tibble: 96,283 × 33
+##       id     source CISYear Unpublished Chamber filter_House filter_Senate
+##    <int>      <chr>   <chr>       <int>   <int>        <int>         <int>
+## 1      1  93-H161-1    1993           0       1            1             0
+## 2      2  93-H161-2    1993           0       1            1             0
+## 3      3  93-H161-3    1993           0       1            1             0
+## 4      4  93-H161-4    1993           0       1            1             0
+## 5      5  93-H161-5    1993           0       1            1             0
+## 6      6  93-H161-6    1993           0       1            1             0
+## 7      7  93-H161-7    1993           0       1            1             0
+## 8      8  93-H161-8    1993           0       1            1             0
+## 9      9  93-H161-9    1993           0       1            1             0
+## 10    10 93-H161-10    1993           0       1            1             0
+## # ... with 96,273 more rows, and 26 more variables: filter_Joint <int>,
+## #   CISCommittee <chr>, Sequence <chr>, Month <int>, Congress <int>,
+## #   year <int>, FiscalYear <int>, Days <int>, Sessions <int>,
+## #   Committee1 <int>, Subcommittee1 <int>, Committee2 <int>,
+## #   Subcommittee2 <int>, filter_Referral <int>, filter_Approp <int>,
+## #   filter_Agency <int>, filter_Program <int>, filter_Admin <int>,
+## #   description <chr>, USMajorTopic <int>, USsubTopicCode <int>,
+## #   majortopic <int>, subtopic <int>, ReferralBills <chr>,
+## #   StartDate <chr>, AdditionalDates <chr>
 ```
 
 Basically, what we want is a dataset that is structured as **year-issue-hearing percentages**, so that we can directly compare the yearly "MIP" responses with the percentage of yearly Congressional hearings on each topic.
