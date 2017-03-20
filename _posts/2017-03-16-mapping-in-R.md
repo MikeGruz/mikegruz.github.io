@@ -10,54 +10,6 @@ output: html_document
 
 
 
-```
-## Loading required package: tidyverse
-```
-
-```
-## Loading tidyverse: ggplot2
-## Loading tidyverse: tibble
-## Loading tidyverse: tidyr
-## Loading tidyverse: readr
-## Loading tidyverse: purrr
-## Loading tidyverse: dplyr
-```
-
-```
-## Conflicts with tidy packages ----------------------------------------------
-```
-
-```
-## filter(): dplyr, stats
-## lag():    dplyr, stats
-```
-
-```
-## Loading required package: ggmap
-```
-
-```
-## Loading required package: RCurl
-```
-
-```
-## Loading required package: methods
-```
-
-```
-## Loading required package: bitops
-```
-
-```
-## 
-## Attaching package: 'RCurl'
-```
-
-```
-## The following object is masked from 'package:tidyr':
-## 
-##     complete
-```
 
 Mapping used to be one of those things that always seemed a bit out of reach to all but the GIS folks. Let's be honest: *really good* mapping still very much is. But it like so many things in data manipulation and visualization, it has gotten quite a bit easier to create decent map-based visualizations in *R*.
 
@@ -72,20 +24,7 @@ require(ggplot2)
 
 # pull state boundaries from map_data
 states <- map_data("state")
-```
 
-```
-## 
-## Attaching package: 'maps'
-```
-
-```
-## The following object is masked from 'package:purrr':
-## 
-##     map
-```
-
-```r
 # view data
 head(states)
 ```
@@ -106,10 +45,12 @@ We'll plot these regions as polygons (*geom_polygon*) using ggplot. Note that we
 
 
 ```r
-ggplot(data=states) + geom_polygon(aes(x=long, y=lat, group=group), colour="black", fill='white', size=.25) + coord_fixed(1.3)
+ggplot(data=states) + 
+  geom_polygon(aes(x=long, y=lat, group=group), colour="black", fill='white', size=.25) +
+  coord_fixed(1.3)
 ```
 
-![plot of chunk stateplot](/figure/source/2017-03-16-mapping-in-R/stateplot-1.png)
+![plot of chunk stateplot](/figure/source/2017-03-16-mapping-in-R/stateplot-1.svg)
 
 Easy-peasy. Let's try the same for counties.
 
@@ -118,16 +59,19 @@ Easy-peasy. Let's try the same for counties.
 # pull in county boundaries data
 counties <- map_data("county")
 
-ggplot(data=counties) + geom_polygon(aes(x=long, y=lat, group=group), colour="black", fill='white', size=.25) + coord_fixed(1.3)
+ggplot(data=counties) + 
+  geom_polygon(aes(x=long, y=lat, group=group), colour="black", fill='white', size=.25) +
+  coord_fixed(1.3)
 ```
 
-![plot of chunk countyplot](/figure/source/2017-03-16-mapping-in-R/countyplot-1.png)
-
+![plot of chunk countyplot](/figure/source/2017-03-16-mapping-in-R/countyplot-1.svg)
 This is cool, but even cooler would be including some county-level data representing 2016 election returns. Luckily for us, [Tom McGovern](https://github.com/tonmcg) has provided [county-level election results for the 2012-2016 U.S. presidential elections](https://github.com/tonmcg/County_Level_Election_Results_12-16). Let's pull that data into *R* and combine it with the county boundaries.
 
 
 ```r
 # load the RCurl package to download data from github, as CSV format
+require(RCurl)
+
 elect.data <- read_csv(getURL("https://raw.githubusercontent.com/tonmcg/County_Level_Election_Results_12-16/master/2016_US_County_Level_Presidential_Results.csv"))
 ```
 
@@ -153,16 +97,6 @@ head(elect.data)
 ## # ... with 4 more variables: per_point_diff <chr>, state_abbr <chr>,
 ## #   county_name <chr>, combined_fips <int>
 ```
-
-```r
-  # # remove "county" from name
-  # mutate(subregion = tolower(sub(" County", "", county_name)),
-  #        subregion = tolower(sub(" parish", "", subregion)),
-  #        region = tolower(state.name[match(state_abbr, state.abb)]),
-  #        trump.diff = per_gop - per_dem) %>%
-  # select(-X1, -state_abbr, -county_name, -combined_fips)
-```
-
 Unfortunately for us, the counties map data has (lowercase) full names for the states, whereas the county-level election data has state abbreviations.
 
 We can rectify this by changing the election data's state abbreviations to lowercase full names using the `tolower()` function and the `state.name` and `state.abbr` datasets included in the *R* `datasets` package. County names are also lowercase in the map data, so we'll fix that here as well.
@@ -378,7 +312,7 @@ counties.elect <- counties.elect %>%
   mutate(trump.perc = (per_gop - per_dem)*100)
 ```
 
-And now we'll map it, using the same `ggplot` code as before while adding a `fill=` statement to fill in a gradient based on the percent differential between the two candidates.
+And now we'll map it, using the same `ggplot` code as before while adding a `fill=` statement to fill in a gradient based on the percent differential between the two candidates. Additionally, we'll remove the gridlines and axis labels from the figure.
 
 
 ```r
@@ -395,8 +329,10 @@ ggplot(data=counties.elect) +
         panel.grid = element_blank())
 ```
 
-![plot of chunk countymap](/figure/source/2017-03-16-mapping-in-R/countymap-1.png)
+![plot of chunk county.elect.map](/figure/source/2017-03-16-mapping-in-R/county.elect.map-1.svg)
+# Plotting USDA Funding Data Against County Voting Behavior
 
+Forthcoming..
 
 
 ```r
