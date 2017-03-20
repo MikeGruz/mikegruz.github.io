@@ -54,6 +54,7 @@ ggplot(data=counties) +
   geom_polygon(aes(x=long, y=lat, group=group), colour="black", fill='white', size=.25) +
   coord_fixed(1.3)
 ```
+
 This is cool, but even cooler would be including some county-level data representing 2016 election returns. Luckily for us, [Tom McGovern](https://github.com/tonmcg) has provided [county-level election results for the 2012-2016 U.S. presidential elections](https://github.com/tonmcg/County_Level_Election_Results_12-16). Let's pull that data into *R* and combine it with the county boundaries.
 
 ```{r county.data, message=FALSE}

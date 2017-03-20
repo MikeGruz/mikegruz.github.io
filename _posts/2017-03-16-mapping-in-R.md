@@ -65,6 +65,7 @@ ggplot(data=counties) +
 ```
 
 ![plot of chunk countyplot](/figure/source/2017-03-16-mapping-in-R/countyplot-1.svg)
+
 This is cool, but even cooler would be including some county-level data representing 2016 election returns. Luckily for us, [Tom McGovern](https://github.com/tonmcg) has provided [county-level election results for the 2012-2016 U.S. presidential elections](https://github.com/tonmcg/County_Level_Election_Results_12-16). Let's pull that data into *R* and combine it with the county boundaries.
 
 
