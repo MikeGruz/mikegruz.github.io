@@ -344,6 +344,7 @@ We're going to first read in the shapefiles (using `readOGR`), pull in the ID fo
 
 Note that the use of GIS shapefiles is a rich and varied concept that a person (like me) has no business messing around with. Still, we'll proceed.
 
+Note that I pulled the "aea" projection parameters from [Kris Eberwein's](https://github.com/keberwein) Github Gist on [Map Projections for the USA.](https://gist.github.com/keberwein/de42982e18e242804c97a728c0ad5535) Like I said, I have no business in the business of GIS.
 
 
 ```r
