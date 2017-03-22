@@ -1,0 +1,13 @@
+base
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+maps
+sp
+rgdal
+maptools
+rgeos
