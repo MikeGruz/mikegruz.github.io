@@ -5,6 +5,8 @@ comments: true
 layout: post
 share: true
 output: html_document
+image:
+  feature: https://mikegruz.github.io/figure/source/2017-03-16-mapping-in-R/unnamed-chunk-17-1.svg
 ---
 
 
@@ -14,7 +16,7 @@ output: html_document
 Mapping used to be one of those things that always seemed a bit out of reach to all but the GIS folks. Let's be honest: *really good* mapping still very much is. But it like so many things in data manipulation and visualization, it has gotten quite a bit easier to create decent map-based visualizations in *R*.
 
 *R* has had decent mapping capabilities for some time, but (like so many things) these have gotten more accessible with Hadley Wickham's *ggplot* package, which includes the *map_data* set of shapes for political boundaries.
-
+<!--more-->
 To quickly demonstrate how easy it is to create a map, we can access the shapefile data in *map_data* for state boundaries within the United States and quickly plot it.
 
 
