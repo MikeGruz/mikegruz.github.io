@@ -1,5 +1,5 @@
 ---
-title: "2016 Election Results by House District"
+title: "Tracking House Republicans' Support for the AHCA"
 date: 2017-03-22
 comments: true
 layout: post
@@ -14,8 +14,6 @@ output: html_document
 
 
 
-# Tracking Congressional Republicans' Support for the AHCA
-
 With the House vote on the *American Health Care Act* (AHCA) nearly upon us, a great deal of attention has been rightly given to the razor-thin margins President Trump and Republican leadership has in pushing this bill through Congress. As the [New York Times explained this week](https://www.nytimes.com/interactive/2017/03/20/us/politics/health-care-whip-count.html), the bill needs 216 Republican votes in the House to pass (no Democrats support the AHCA). 
 
 As of Wednesday, March 22, there are only 136 Republican supporters of the bill, while 56 are on the fence and another 45 have concerns or oppose the bill. This means that passage in the House will count on all of the fence-sitters to give a yea vote, plus 24 of those opposed or voicing concerns.
@@ -27,6 +25,7 @@ To that end, I've pulled district-level electoral outcomes from [Daily Kos](http
 In each of the following plots, the differential between Trump and Clinton's win percentage is plotted, with values at *0* indicating a 50-50 split between the candidates and higher values indicating a greater win differential for Trump (plotted in bright red for highest values).
 
 ![plot of chunk support.map](/figure/source/2016-03-22-ahca-support/support.map-1.svg)
+
 Unsurprisingly, many of the 136 House Republicans who have come out in support for the AHCA hail from districts that Trump won handily. In fact, a full 110 (81%) of the districts of House Republicans supportive of the AHCA were won by over 10% by Trump; 71 (52%) of them were won by a margin of 20% or more by Trump. 
 
 ![plot of chunk undecided.map](/figure/source/2016-03-22-ahca-support/undecided.map-1.svg)
