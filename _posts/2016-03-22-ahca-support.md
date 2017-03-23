@@ -72,24 +72,32 @@ A few additional illustrations are included below, first of which is the mean Tr
 ## -----------------------------------
 ```
 
-```
-## 
-## ----------------------------------------------------
-##  support_oppose     mean      sd        se       n  
-## ----------------- -------- -------- ---------- -----
-## Lean No/Concerns  21.73175 14.57289 0.27728972 2762 
-## 
-##        No         21.84383 13.37025 0.14563886 8428 
-## 
-##      Support      29.53143 15.53274 0.08690673 31944
-## 
-## Undecided/Unclear 22.84144 17.43685 0.16369205 11347
-## ----------------------------------------------------
-```
-
 ![plot of chunk trump.lose](/figure/source/2016-03-22-ahca-support/trump.lose-1.svg)
 
 
 ```
-## Error in eval(expr, envir, enclos): object 'ahca.trump' not found
+## 
+## ------------------------------------------------------------------
+##  abb   cd        name         support_oppose   party   trump.diff 
+## ----- ---- ----------------- ---------------- ------- ------------
+##  AZ    2   Martha E. McSally     support        (R)       -4.9    
+## 
+##  CA    45    Mimi Walters        support        (R)       -5.4    
+## 
+##  CA    48  Dana Rohrabacher      support        (R)       -1.7    
+## 
+##  CA    49    Darrell Issa        support        (R)       -7.5    
+## 
+##  CO    6     Mike Coffman        support        (R)       -8.9    
+## 
+##  IL    6     Peter Roskam        support        (R)       -7.0    
+## 
+##  KS    3      Kevin Yoder        support        (R)       -1.2    
+## 
+##  MN    3     Erik Paulsen        support        (R)       -9.4    
+## 
+##  TX    32    Pete Sessions       support        (R)       -1.9    
+## 
+##  WA    8     Dave Reichert       support        (R)       -3.0    
+## ------------------------------------------------------------------
 ```

@@ -183,8 +183,6 @@ ahca.sum %>%
   slice(match(ahca.order, support_oppose)) %>%
   pandoc.table()
 
-pandoc.table(ahca.sum)
-
 # ggplot(ahca.sum, aes(x=support_oppose, y=mean)) + 
 #   geom_bar(stat="identity", fill="red", alpha=.5, colour="black", size=.2, width = .5) +
 #   geom_errorbar(aes(ymin=mean-sd, ymax=mean+sd), width=.1) + ylim(c(0,50)) +
@@ -206,6 +204,8 @@ ggplot(districts.ahca) +
 ```
 
 ```{r trump.lose.table, cache=TRUE, message=FALSE, echo=FALSE,warning=FALSE, dev="svg", fig.width=8}
+ahca.trump <- left_join(ahca.support, elect.data, by=c("abb","cd"))
+
 
 ahca.trump %>% 
   filter(trump.diff < 0 & support_oppose=="support") %>%
