@@ -43,9 +43,9 @@ University of Nebraska at Kearney
 
 **Peer-Reviewed Publications** 
 
-Wagner, Michael W., and Mike Gruszczynski. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." In press at *Journalism and & Mass Communication Quarterly.*
+Wagner, Michael W., and Mike Gruszczynski. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." In press at *Journalism & Mass Communication Quarterly.*
  
-Gruszczynski, Mike, and Michael W. Wagner. "Information Flow in the 21st Century: The Theory of Agenda-Update." [*Mass Communication and Society,* 00: 1-25.](http://www.tandfonline.com/doi/abs/10.1080/15205436.2016.1255757?journalCode=hmcs20){:target="_blank"}
+Gruszczynski, Mike, and Michael W. Wagner. 2016. "Information Flow in the 21st Century: The Theory of Agenda-Update." [*Mass Communication and Society,* 00: 1-25.](http://www.tandfonline.com/doi/abs/10.1080/15205436.2016.1255757?journalCode=hmcs20){:target="_blank"}
 
 Michaels, Sarah, and Mike Gruszczynski. 2016. "Deliberating on Missouri River Water Diversions in Congressional Committee Hearings." [*Journal of Contemporary Water Research & Education,* 158: 132-147.](http://onlinelibrary.wiley.com/doi/10.1111/j.1936-704X.2016.03224.x/full){:target="_blank"}
 
@@ -73,6 +73,8 @@ Gruszczynski, Mike. "Haig, Alexander Meigs, Jr." *American National Biography On
 
 
 **Selected Conference Participation**  
+Media Diversity and Agenda Fragmentation. Presented at the *2017 Annual Meeting of the Midwest Political Science Association,* Chicago, IL (Apr. 8, 2017).
+
 Examining Agenda Fragmentation Among the U.S. Mainstream Media. Presented at the *2016 Annual Meeting of the Southern Political Science Association,* San Juan, Puerto Rico (Jan. 9, 2016).
 
 The Ratification of CEDAW and the Liberalization of Abortion Laws. Presented at the *2015 Annual Meeting of the International Studies Association,* New Orleans, Louisiana (with Katherine E.L. Hunt, Feb. 19, 2015).
