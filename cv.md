@@ -43,7 +43,7 @@ University of Nebraska at Kearney
 
 **Peer-Reviewed Publications** 
 
-Wagner, Michael W., and Mike Gruszczynski. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." In press at *Journalism & Mass Communication Quarterly.*
+Wagner, Michael W., and Mike Gruszczynski. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." In press at [*Journalism & Mass Communication Quarterly.*](http://journals.sagepub.com/doi/full/10.1177/1077699017702836){:target="_blank"}
  
 Gruszczynski, Mike, and Michael W. Wagner. 2016. "Information Flow in the 21st Century: The Theory of Agenda-Update." [*Mass Communication and Society,* 00: 1-25.](http://www.tandfonline.com/doi/abs/10.1080/15205436.2016.1255757?journalCode=hmcs20){:target="_blank"}
 
