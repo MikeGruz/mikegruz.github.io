@@ -141,7 +141,7 @@ Independent Research Advisor for Clarisse Warren, Mitchell Currey, Erica Brother
 Faculty Advisor, APSU Political Behavior Association (Spring 2016-Spring 2017)  
 Faculty Advisor, APSU College Democrats (Fall 2013-Spring 2016)  
 
-*Austin Peay State University* 
+*Austin Peay State University*  
 Faculty Advisor, Campus Kitchen at APSU (Fall 2016-Present)   
 Faculty Senator, APSU Faculty Senate (Fall 2016-Spring 2018)  
 Faculty Representative, Institutional Effectiveness Committee (Fall 2016-Spring 2018)  
