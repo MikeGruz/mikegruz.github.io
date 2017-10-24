@@ -6,7 +6,7 @@ permalink: /cv/
 
 ### Mike Gruszczynski, PhD
 ---
-Associate Professor of Political Science
+Assistant Professor of Political Science
 Department of Political Science & Public Management
 Austin Peay State University 
 601 College St, Clement 143F  
