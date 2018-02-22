@@ -6,8 +6,8 @@ permalink: /cv/
 
 ### Mike Gruszczynski, PhD
 ---
-Assistant Professor of Political Science
-Department of Political Science & Public Management
+Assistant Professor of Political Science 
+Department of Political Science & Public Management 
 Austin Peay State University 
 601 College St, Clement 143F  
 Clarksville, TN 37044
