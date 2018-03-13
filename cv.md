@@ -74,6 +74,12 @@ Wagner, Michael W., and Mike Gruszczynski. "Good Media, Bad Media: The Benefits 
 Calfano, Brian, Frank Markowitz, and Mike Gruszczynski. "Political Science Research Methods: Statistics in Service." Book under contract at John Wiley & Sons, Inc.
 
 
+**Programming**  
+[*kripp.boot*](https://github.com/MikeGruz/kripp.boot){:target="_blank"} - *R* package to perform bootstrapped reliability results for Krippendorff's Alpha intercoder reliability statistics (package contributor, maintainer)  
+
+[*newsflash*](https://github.com/hrbrmstr/newsflash){:target="_blank"} - *R* package to access GDELT TV Archive (package contributor)
+
+
 **Other Publications**  
 Gruszczynski, Mike. "Haig, Alexander Meigs, Jr." *American National Biography Online, Oxford University Press.*
 
