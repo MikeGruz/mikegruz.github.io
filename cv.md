@@ -4,8 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-### Mike Gruszczynski, PhD
----
+### Mike Gruszczynski, PhD  
 Assistant Professor, The Media School  
 Indiana University  
 Bloomington, Indiana  
