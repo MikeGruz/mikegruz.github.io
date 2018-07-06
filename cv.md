@@ -6,14 +6,11 @@ permalink: /cv/
 
 ### Mike Gruszczynski, PhD
 ---
-Assistant Professor of Political Science  
-Department of Political Science & Public Management  
-Austin Peay State University  
-601 College St, Clement 143F  
-Clarksville, TN 37044
+Assistant Professor, The Media School  
+Indiana University  
+Bloomington, Indiana  
 
-gruszczynskim@apsu.edu  
-931.221.7581  
+mgruszc@iu.edu  
 
 ---
 
@@ -48,6 +45,8 @@ University of Nebraska at Kearney
 
 
 **Peer-Reviewed Publications** 
+
+Hunt, Kate, and Mike Gruszczynski. "The Ratification of CEDAW and the Liberalization of Abortion Laws." In press at *Politics & Gender.*  
 
 Wagner, Michael W., and Mike Gruszczynski. 2017. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." [*Journalism & Mass Communication Quarterly. (Online First)*](http://journals.sagepub.com/doi/full/10.1177/1077699017702836){:target="_blank"}
  
@@ -88,8 +87,6 @@ Gruszczynski, Mike. "Haig, Alexander Meigs, Jr." *American National Biography On
 Media Diversity and Agenda Fragmentation. Presented at the *2017 Annual Meeting of the Midwest Political Science Association,* Chicago, IL (Apr. 8, 2017).
 
 Examining Agenda Fragmentation Among the U.S. Mainstream Media. Presented at the *2016 Annual Meeting of the Southern Political Science Association,* San Juan, Puerto Rico (Jan. 9, 2016).
-
-The Ratification of CEDAW and the Liberalization of Abortion Laws. Presented at the *2015 Annual Meeting of the International Studies Association,* New Orleans, Louisiana (with Katherine E.L. Hunt, Feb. 19, 2015).
 
 The News Media as a Political Institution: Party Competition and the Variance in Journalistic Framing. Presented at the *2014 Annual Meeting of the International Communication Association,* Seattle, Washington (with and presented by Michael W. Wagner *in absentia*, May 24, 2014)
 
