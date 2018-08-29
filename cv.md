@@ -5,11 +5,14 @@ permalink: /cv/
 ---
 
 ### Mike Gruszczynski, PhD  
-Assistant Professor, The Media School  
+Assistant Professor of Communication Science
+The Media School  
+Franklin Hall M130S    
 Indiana University  
 Bloomington, Indiana  
 
 mgruszc@iu.edu  
+812.855.6389  
 
 ---
 
@@ -47,7 +50,7 @@ University of Nebraska at Kearney
 
 Hunt, Kate, and Mike Gruszczynski. "The Ratification of CEDAW and the Liberalization of Abortion Laws." In press at *Politics & Gender.*  
 
-Wagner, Michael W., and Mike Gruszczynski. 2017. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." [*Journalism & Mass Communication Quarterly. (Online First)*](http://journals.sagepub.com/doi/full/10.1177/1077699017702836){:target="_blank"}
+Wagner, Michael W., and Mike Gruszczynski. 2017. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." [*Journalism & Mass Communication Quarterly,* 95(3): 670-690.](http://journals.sagepub.com/doi/full/10.1177/1077699017702836){:target="_blank"}
  
 Gruszczynski, Mike, and Michael W. Wagner. 2017. "Information Flow in the 21st Century: The Theory of Agenda-Update." [*Mass Communication and Society,* 20(3): 378-402.](http://www.tandfonline.com/doi/abs/10.1080/15205436.2016.1255757?journalCode=hmcs20){:target="_blank"}
 
