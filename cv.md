@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 ### Mike Gruszczynski, PhD  
-Assistant Professor of Communication Science
+Assistant Professor of Communication Science  
 The Media School  
 Franklin Hall M130S    
 Indiana University  
