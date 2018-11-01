@@ -50,7 +50,7 @@ University of Nebraska at Kearney
 
 Hunt, Kate, and Mike Gruszczynski. "The Ratification of CEDAW and the Liberalization of Abortion Laws." In press at [*Politics & Gender.*](https://www.cambridge.org/core/journals/politics-and-gender/article/ratification-of-cedaw-and-the-liberalization-of-abortion-laws/BF1314CB5F3384C21CB6BB788A6D4FE7){:target="_blank"}  
 
-Wagner, Michael W., and Mike Gruszczynski. 2017. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." [*Journalism & Mass Communication Quarterly,* 95(3): 670-690.](http://journals.sagepub.com/doi/full/10.1177/1077699017702836){:target="_blank"}
+Wagner, Michael W., and Mike Gruszczynski. 2018. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." [*Journalism & Mass Communication Quarterly,* 95(3): 670-690.](http://journals.sagepub.com/doi/full/10.1177/1077699017702836){:target="_blank"}
  
 Gruszczynski, Mike, and Michael W. Wagner. 2017. "Information Flow in the 21st Century: The Theory of Agenda-Update." [*Mass Communication and Society,* 20(3): 378-402.](http://www.tandfonline.com/doi/abs/10.1080/15205436.2016.1255757?journalCode=hmcs20){:target="_blank"}
 
