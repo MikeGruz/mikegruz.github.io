@@ -108,6 +108,12 @@ Editorial Mood and the Dynamics of Public Opinion in the United States. Presente
 
 
 **Courses Taught**  
+*Indiana University*  
+MSCH-J 423 Public Opinion  
+MSCH-T 512 Communication and Politics  
+MSCH-C 315 Media Processes and Effects  
+
+*Austin Peay State University*  
 POLS 3760 Methods of Research  
 POLS 453 Advanced Methods of Research (Independent Study)  
 POLS 451 Applied Polling and Survey Research  
@@ -121,8 +127,18 @@ POLS 451 American Bureaucracy
 POLS 2010 American National Government  
 POLS 2040 Introduction to Public Policy  
 
+*University of Nebraska-Lincoln*  
+POLS 230 Elections, Political Parties, and Special Interests  
+POLS 210 American Bureaucracy  
+POLS 236 Public Policy Analysis
+
+*University of Nebraska at Kearney*  
+PSCI 110 Introduction to American Politics
+
 
 **Grants & Awards**  
+Indiana University Overseas Conference Grant (2019, $1000)  
+
 Phi Kappa Phi Honored Professor for Elizabeth Kelly, Inductee (April 6, 2016)
 
 Golden Key Society Honored Member, Nominated by Erica Brotherton (April 17, 2015)
@@ -149,6 +165,9 @@ University of Nebraska Karen Dunning Women's and Gender Studies Graduate Paper o
 
 
 **Service**  
+*The Media School at Indiana University*  
+
+
 
 *Austin Peay State University Department of Political Science*  
 Faculty Mentor to Dr. Harold Young (Fall 2016-Spring 2017)  
