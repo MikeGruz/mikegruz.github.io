@@ -17,6 +17,28 @@ mgruszc@iu.edu
 ---
 
 
+**Positions and Institutional Affiliations**  
+Assistant Professor of Communication Science (Fall 2018-Present)  
+The Media School  
+Indiana University-Bloomington  
+Bloomington, IN  
+
+Assistant Professor of Political Science (Fall 2013-Spring 2018)  
+Department of Political Science and Public Management  
+Austin Peay State University  
+Clarksville, TN  
+
+Visiting Instructor of Political Science (Spring 2012)  
+Department of Political Science  
+University of Nebraska at Kearney  
+Kearney, NE  
+
+Graduate Teaching/Research Assistant (Spring 2008-Spring 2013)  
+Department of Political Science  
+University of Nebraska-Lincoln  
+Lincoln, NE  
+
+
 **Research Areas**  
 *Political Communication*  
 Agenda-setting, framing, media fragmentation
