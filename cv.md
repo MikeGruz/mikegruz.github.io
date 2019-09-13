@@ -48,6 +48,10 @@ University of Nebraska at Kearney
 
 **Peer-Reviewed Publications** 
 
+Gruszczynski, Mike. "Evidence of Partisan Agenda Fragmentation in the American Public, 1959-2015." In press at *Public Opinion Quarterly.*  
+
+Friesen, Amanda, Mike Gruszczynski, Kevin B. Smith, and John R. Alford. "Political Orientations Vary with Detection of Androstenone." In press at *Politics and the Life Sciences.*  
+
 Hunt, Kate, and Mike Gruszczynski. "The Ratification of CEDAW and the Liberalization of Abortion Laws." In press at [*Politics & Gender.*](https://www.cambridge.org/core/journals/politics-and-gender/article/ratification-of-cedaw-and-the-liberalization-of-abortion-laws/BF1314CB5F3384C21CB6BB788A6D4FE7){:target="_blank"}  
 
 Wagner, Michael W., and Mike Gruszczynski. 2018. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." [*Journalism & Mass Communication Quarterly,* 95(3): 670-690.](http://journals.sagepub.com/doi/full/10.1177/1077699017702836){:target="_blank"}
