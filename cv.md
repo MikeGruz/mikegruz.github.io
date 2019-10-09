@@ -72,7 +72,7 @@ University of Nebraska at Kearney
 
 Gruszczynski, Mike. "Evidence of Partisan Agenda Fragmentation in the American Public, 1959-2015." In press at *Public Opinion Quarterly.*  
 
-Hunt, Kate, and Mike Gruszczynski. "The Influence of New and Traditional Media Coverage on Public Attention to Social Movements: The Case of the Dakota Access Pipeline Protests." In press at *Information, Communication, and Society.*  
+Hunt, Kate, and Mike Gruszczynski. "The Influence of New and Traditional Media Coverage on Public Attention to Social Movements: The Case of the Dakota Access Pipeline Protests." In press at [*Information, Communication, and Society.*](https://www.tandfonline.com/doi/full/10.1080/1369118X.2019.1670228){:target="_blank"}  
 
 Friesen, Amanda, Mike Gruszczynski, Kevin B. Smith, and John R. Alford. "Political Orientations Vary with Detection of Androstenone." In press at *Politics and the Life Sciences.*  
 
