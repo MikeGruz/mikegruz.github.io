@@ -74,6 +74,8 @@ Gruszczynski, Mike. "Evidence of Partisan Agenda Fragmentation in the American P
 
 Hunt, Kate, and Mike Gruszczynski. "The Influence of New and Traditional Media Coverage on Public Attention to Social Movements: The Case of the Dakota Access Pipeline Protests." In press at [*Information, Communication, and Society.*](https://www.tandfonline.com/doi/full/10.1080/1369118X.2019.1670228){:target="_blank"}  
 
+Comfort, Suzannah Evans, Edson Tandoc, and Mike Gruszczynski. "Who is heard in climate change journalism? Sourcing patterns in climate change news in China, India, Singapore, and Thailand." In press at *Climactic Change.*  
+
 Friesen, Amanda, Mike Gruszczynski, Kevin B. Smith, and John R. Alford. "Political Orientations Vary with Detection of Androstenone." In press at *Politics and the Life Sciences.*  
 
 Hunt, Kate, and Mike Gruszczynski. "The Ratification of CEDAW and the Liberalization of Abortion Laws." In press at [*Politics & Gender.*](https://www.cambridge.org/core/journals/politics-and-gender/article/ratification-of-cedaw-and-the-liberalization-of-abortion-laws/BF1314CB5F3384C21CB6BB788A6D4FE7){:target="_blank"}  
