@@ -74,11 +74,11 @@ Gruszczynski, Mike. "Evidence of Partisan Agenda Fragmentation in the American P
 
 Hunt, Kate, and Mike Gruszczynski. "The Influence of New and Traditional Media Coverage on Public Attention to Social Movements: The Case of the Dakota Access Pipeline Protests." In press at [*Information, Communication, and Society.*](https://www.tandfonline.com/doi/full/10.1080/1369118X.2019.1670228){:target="_blank"}  
 
-Comfort, Suzannah Evans, Edson Tandoc, and Mike Gruszczynski. "Who is heard in climate change journalism? Sourcing patterns in climate change news in China, India, Singapore, and Thailand." In press at *Climactic Change.*  
+Comfort, Suzannah Evans, Edson Tandoc, and Mike Gruszczynski. "Who is heard in climate change journalism? Sourcing patterns in climate change news in China, India, Singapore, and Thailand." [*Climactic Change.* (Published online first Nov. 20, 2019)](https://link.springer.com/article/10.1007/s10584-019-02597-1){:target="_blank"}  
 
 Friesen, Amanda, Mike Gruszczynski, Kevin B. Smith, and John R. Alford. "Political Orientations Vary with Detection of Androstenone." In press at *Politics and the Life Sciences.*  
 
-Hunt, Kate, and Mike Gruszczynski. "The Ratification of CEDAW and the Liberalization of Abortion Laws." In press at [*Politics & Gender.*](https://www.cambridge.org/core/journals/politics-and-gender/article/ratification-of-cedaw-and-the-liberalization-of-abortion-laws/BF1314CB5F3384C21CB6BB788A6D4FE7){:target="_blank"}  
+Hunt, Kate, and Mike Gruszczynski. 2019. "The Ratification of CEDAW and the Liberalization of Abortion Laws." [*Politics & Gender* 15: 722-45.](https://www.cambridge.org/core/journals/politics-and-gender/article/ratification-of-cedaw-and-the-liberalization-of-abortion-laws/BF1314CB5F3384C21CB6BB788A6D4FE7){:target="_blank"}  
 
 Wagner, Michael W., and Mike Gruszczynski. 2018. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." [*Journalism & Mass Communication Quarterly,* 95(3): 670-690.](http://journals.sagepub.com/doi/full/10.1177/1077699017702836){:target="_blank"}
  
