@@ -70,7 +70,7 @@ University of Nebraska at Kearney
 
 **Peer-Reviewed Publications** 
 
-Gruszczynski, Mike. "Evidence of Partisan Agenda Fragmentation in the American Public, 1959-2015." In press at [*Public Opinion Quarterly.* (Published online first Jan. 17, 2020)](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfz046/5708951?searchresult=1){:target="_blank"}  
+Gruszczynski, Mike. "Evidence of Partisan Agenda Fragmentation in the American Public, 1959-2015." [*Public Opinion Quarterly.* (Published online first Jan. 17, 2020)](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfz046/5708951?searchresult=1){:target="_blank"}  
 
 Hunt, Kate, and Mike Gruszczynski. "The Influence of New and Traditional Media Coverage on Public Attention to Social Movements: The Case of the Dakota Access Pipeline Protests." In press at [*Information, Communication, and Society.* (Published online first Sept. 24, 2019)](https://www.tandfonline.com/doi/full/10.1080/1369118X.2019.1670228){:target="_blank"}  
 
