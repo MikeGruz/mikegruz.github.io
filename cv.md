@@ -55,8 +55,7 @@ Statistical programming, quantitative methodology, simulations
 University of Nebraska-Lincoln  
 Fields: American Politics, Public Policy  
 Dissertation: Emotion and Public Attention to Political Issues  
-Committee: John R. Hibbing (Chair), Kevin B. Smith, Elizabeth Theiss-Morse,
-Michael W. Wagner, Dona-Gene Mitchell, Mike Dodd, Sarah Michaels
+Committee: John R. Hibbing (Chair), Michael W. Wagner, Kevin B. Smith, Elizabeth Theiss-Morse, Dona-Gene Mitchell, Mike Dodd, Sarah Michaels
 
 *M.A. in Political Science, May 2009*  
 University of Nebraska-Lincoln  
