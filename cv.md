@@ -69,9 +69,9 @@ University of Nebraska at Kearney
 
 **Peer-Reviewed Publications** 
 
-Gruszczynski, Mike. "How Media Storms and Topic Diversity Influence Agenda Fragmentation." In press at *International Journal of Communication.*  
+Gruszczynski, Mike. 2020. "How Media Storms and Topic Diversity Influence Agenda Fragmentation." [*International Journal of Communication* 14: 4599-4620.](https://ijoc.org/index.php/ijoc/article/view/13267){:target="_blank"}  
 
-Comfort, Suzannah Evans, Edson Tandoc, and Mike Gruszczynski. 2020. "Who is heard in climate change journalism? Sourcing patterns in climate change news in China, India, Singapore, and Thailand." [*Climactic Change* 158: 327-343](https://link.springer.com/article/10.1007/s10584-019-02597-1){:target="_blank"}  
+Comfort, Suzannah Evans, Edson Tandoc, and Mike Gruszczynski. 2020. "Who is heard in climate change journalism? Sourcing patterns in climate change news in China, India, Singapore, and Thailand." [*Climactic Change* 158: 327-343.](https://link.springer.com/article/10.1007/s10584-019-02597-1){:target="_blank"}  
 
 Friesen, Amanda, Mike Gruszczynski, Kevin B. Smith, and John R. Alford. 2020. "Political Orientations Vary with Detection of Androstenone." [*Politics and the Life Sciences* 39(1): 26-37.](https://www.cambridge.org/core/journals/politics-and-the-life-sciences/article/political-attitudes-vary-with-detection-of-androstenone/AE5D552DAD0EAB987CA711FE5DB190AE){:target="_blank"}  
 
