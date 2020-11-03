@@ -69,6 +69,10 @@ University of Nebraska at Kearney
 
 **Peer-Reviewed Publications** 
 
+Geiger, Nathaniel, Michael H. Pasek, Mike Gruszczynski, Nathaniel J. Ratcliff, and Kevin S. Weaver. "Political Ingroup Conformity and Pro-Environmental Behavior: Evaluating the Evidence from a Survey and Mousetracking Experiments." Forthcoming in *Journal of Environmental Psychology.*  
+
+Geiger, Nathaniel, Janet Swim, and Mike Gruszczynski. "Political Psychology and the Climate Crisis." Forthcoming chapter in *Cambridge Handbook of Political Psychology.*  
+
 Gruszczynski, Mike. 2020. "How Media Storms and Topic Diversity Influence Agenda Fragmentation." [*International Journal of Communication* 14: 4599-4620.](https://ijoc.org/index.php/ijoc/article/view/13267){:target="_blank"}  
 
 Comfort, Suzannah Evans, Edson Tandoc, and Mike Gruszczynski. 2020. "Who is heard in climate change journalism? Sourcing patterns in climate change news in China, India, Singapore, and Thailand." [*Climactic Change* 158: 327-343.](https://link.springer.com/article/10.1007/s10584-019-02597-1){:target="_blank"}  
@@ -101,10 +105,7 @@ Dodd, Michael D., Amanda Balzer, Carly M. Jacobs, Michael W. Gruszczynski, Kevin
 
 
 **Book Contracts**  
-Wagner, Michael W., and Mike Gruszczynski. "Good Media, Bad Media: The Benefits and Consequences of a Negative, Emotional, and Biased News Media." Book under contract at Routledge.
-
-Calfano, Brian, Frank Markowitz, and Mike Gruszczynski. "Political Science Research Methods: Statistics in Service." Book under contract at John Wiley & Sons, Inc.
-
+Wagner, Michael W., and Mike Gruszczynski. "Good Media, Bad Media: The Benefits and Consequences of a Negative, Emotional, and Biased News Media." Book under contract at Routledge.  
 
 **Programming**  
 [*kripp.boot*](https://github.com/MikeGruz/kripp.boot){:target="_blank"} - *R* package to perform bootstrapped reliability results for Krippendorff's Alpha intercoder reliability statistics (package contributor, maintainer)  
