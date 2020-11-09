@@ -69,39 +69,39 @@ University of Nebraska at Kearney
 
 **Peer-Reviewed Publications** 
 
-Geiger, Nathaniel, Michael H. Pasek, Mike Gruszczynski, Nathaniel J. Ratcliff, and Kevin S. Weaver. "Political Ingroup Conformity and Pro-Environmental Behavior: Evaluating the Evidence from a Survey and Mousetracking Experiments." [Pre-press; forthcoming in *Journal of Environmental Psychology.*](https://www.sciencedirect.com/science/article/abs/pii/S0272494420306897){:target="_blank"}  
+Geiger, Nathaniel, Michael H. Pasek, **Mike Gruszczynski**, Nathaniel J. Ratcliff, and Kevin S. Weaver. "Political Ingroup Conformity and Pro-Environmental Behavior: Evaluating the Evidence from a Survey and Mousetracking Experiments." [Pre-press; forthcoming in *Journal of Environmental Psychology.*](https://www.sciencedirect.com/science/article/abs/pii/S0272494420306897){:target="_blank"}  
 
-Geiger, Nathaniel, Janet Swim, and Mike Gruszczynski. "Political Psychology and the Climate Crisis." Forthcoming chapter in *Cambridge Handbook of Political Psychology.*  
+Geiger, Nathaniel, Janet Swim, and **Mike Gruszczynski**. "Political Psychology and the Climate Crisis." Forthcoming chapter in *Cambridge Handbook of Political Psychology.*  
 
-Gruszczynski, Mike. 2020. "How Media Storms and Topic Diversity Influence Agenda Fragmentation." [*International Journal of Communication* 14: 4599-4620.](https://ijoc.org/index.php/ijoc/article/view/13267){:target="_blank"}  
+**Gruszczynski, Mike**. 2020. "How Media Storms and Topic Diversity Influence Agenda Fragmentation." [*International Journal of Communication* 14: 4599-4620.](https://ijoc.org/index.php/ijoc/article/view/13267){:target="_blank"}  
 
-Comfort, Suzannah Evans, Edson Tandoc, and Mike Gruszczynski. 2020. "Who is heard in climate change journalism? Sourcing patterns in climate change news in China, India, Singapore, and Thailand." [*Climactic Change* 158: 327-343.](https://link.springer.com/article/10.1007/s10584-019-02597-1){:target="_blank"}  
+Comfort, Suzannah Evans, Edson Tandoc, and **Mike Gruszczynski**. 2020. "Who is heard in climate change journalism? Sourcing patterns in climate change news in China, India, Singapore, and Thailand." [*Climactic Change* 158: 327-343.](https://link.springer.com/article/10.1007/s10584-019-02597-1){:target="_blank"}  
 
-Friesen, Amanda, Mike Gruszczynski, Kevin B. Smith, and John R. Alford. 2020. "Political Orientations Vary with Detection of Androstenone." [*Politics and the Life Sciences* 39(1): 26-37.](https://www.cambridge.org/core/journals/politics-and-the-life-sciences/article/political-attitudes-vary-with-detection-of-androstenone/AE5D552DAD0EAB987CA711FE5DB190AE){:target="_blank"}  
+Friesen, Amanda, **Mike Gruszczynski**, Kevin B. Smith, and John R. Alford. 2020. "Political Orientations Vary with Detection of Androstenone." [*Politics and the Life Sciences* 39(1): 26-37.](https://www.cambridge.org/core/journals/politics-and-the-life-sciences/article/political-attitudes-vary-with-detection-of-androstenone/AE5D552DAD0EAB987CA711FE5DB190AE){:target="_blank"}  
 
-Gruszczynski, Mike. 2019. "Evidence of Partisan Agenda Fragmentation in the American Public, 1959-2015." [*Public Opinion Quarterly* 83(4): 749-781.](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfz046/5708951?searchresult=1){:target="_blank"}  
+**Gruszczynski, Mike**. 2019. "Evidence of Partisan Agenda Fragmentation in the American Public, 1959-2015." [*Public Opinion Quarterly* 83(4): 749-781.](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfz046/5708951?searchresult=1){:target="_blank"}  
 
-Hunt, Kate, and Mike Gruszczynski. "The Influence of New and Traditional Media Coverage on Public Attention to Social Movements: The Case of the Dakota Access Pipeline Protests." In press at [*Information, Communication, and Society.* (Published online first Sept. 24, 2019)](https://www.tandfonline.com/doi/full/10.1080/1369118X.2019.1670228){:target="_blank"}  
+Hunt, Kate, and **Mike Gruszczynski**. "The Influence of New and Traditional Media Coverage on Public Attention to Social Movements: The Case of the Dakota Access Pipeline Protests." In press at [*Information, Communication, and Society.* (Published online first Sept. 24, 2019)](https://www.tandfonline.com/doi/full/10.1080/1369118X.2019.1670228){:target="_blank"}  
 
-Hunt, Kate, and Mike Gruszczynski. 2019. "The Ratification of CEDAW and the Liberalization of Abortion Laws." [*Politics & Gender* 15: 722-45.](https://www.cambridge.org/core/journals/politics-and-gender/article/ratification-of-cedaw-and-the-liberalization-of-abortion-laws/BF1314CB5F3384C21CB6BB788A6D4FE7){:target="_blank"}  
+Hunt, Kate, and **Mike Gruszczynski**. 2019. "The Ratification of CEDAW and the Liberalization of Abortion Laws." [*Politics & Gender* 15: 722-45.](https://www.cambridge.org/core/journals/politics-and-gender/article/ratification-of-cedaw-and-the-liberalization-of-abortion-laws/BF1314CB5F3384C21CB6BB788A6D4FE7){:target="_blank"}  
 
-Wagner, Michael W., and Mike Gruszczynski. 2018. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." [*Journalism & Mass Communication Quarterly,* 95(3): 670-690.](http://journals.sagepub.com/doi/full/10.1177/1077699017702836){:target="_blank"}
+Wagner, Michael W., and **Mike Gruszczynski**. 2018. "Who Gets Covered? Ideological Extremity and News Coverage of Members of the U.S. Congress." [*Journalism & Mass Communication Quarterly,* 95(3): 670-690.](http://journals.sagepub.com/doi/full/10.1177/1077699017702836){:target="_blank"}
  
-Gruszczynski, Mike, and Michael W. Wagner. 2017. "Information Flow in the 21st Century: The Theory of Agenda-Update." [*Mass Communication and Society,* 20(3): 378-402.](http://www.tandfonline.com/doi/abs/10.1080/15205436.2016.1255757?journalCode=hmcs20){:target="_blank"}
+**Gruszczynski, Mike**, and Michael W. Wagner. 2017. "Information Flow in the 21st Century: The Theory of Agenda-Update." [*Mass Communication and Society,* 20(3): 378-402.](http://www.tandfonline.com/doi/abs/10.1080/15205436.2016.1255757?journalCode=hmcs20){:target="_blank"}
 
-Michaels, Sarah, and Mike Gruszczynski. 2016. "Deliberating on Missouri River Water Diversions in Congressional Committee Hearings." [*Journal of Contemporary Water Research & Education,* 158: 132-147.](http://onlinelibrary.wiley.com/doi/10.1111/j.1936-704X.2016.03224.x/full){:target="_blank"}
+Michaels, Sarah, and **Mike Gruszczynski**. 2016. "Deliberating on Missouri River Water Diversions in Congressional Committee Hearings." [*Journal of Contemporary Water Research & Education,* 158: 132-147.](http://onlinelibrary.wiley.com/doi/10.1111/j.1936-704X.2016.03224.x/full){:target="_blank"}
 
-Wagner, Michael W., and Mike Gruszczynski. 2016. "When Framing Matters: How Partisan and Journalistic Frames Affect Individual Opinions and Party Identification." [*Journalism & Communication Monographs,* 18(1): 5-48.](http://jmo.sagepub.com/content/early/2016/01/18/1522637915623965){:target="_blank"}
+Wagner, Michael W., and **Mike Gruszczynski**. 2016. "When Framing Matters: How Partisan and Journalistic Frames Affect Individual Opinions and Party Identification." [*Journalism & Communication Monographs,* 18(1): 5-48.](http://jmo.sagepub.com/content/early/2016/01/18/1522637915623965){:target="_blank"}
 
-Gruszczynski, Mike. 2015. "The Persistence and Survival of Campaign Controversies in Blog and Mainstream Media Coverage." In [*Controlling the Message: Campaigning and Governing in an Information Rich Environment,* eds. Justin S. Vaughn and Victoria Farrar-Myers. New York: NYU Press, 113-135.](https://books.google.com/books?hl=en&lr=&id=CZaIBwAAQBAJ&oi=fnd&pg=PA113&dq=info:VKaX8wiElakJ:scholar.google.com&ots=jF8v62TnwZ&sig=W3Lv_tfKm3q9phue4k3f4LR1kpg#v=onepage&q&f=false){:target="_blank"}
+**Gruszczynski, Mike**. 2015. "The Persistence and Survival of Campaign Controversies in Blog and Mainstream Media Coverage." In [*Controlling the Message: Campaigning and Governing in an Information Rich Environment,* eds. Justin S. Vaughn and Victoria Farrar-Myers. New York: NYU Press, 113-135.](https://books.google.com/books?hl=en&lr=&id=CZaIBwAAQBAJ&oi=fnd&pg=PA113&dq=info:VKaX8wiElakJ:scholar.google.com&ots=jF8v62TnwZ&sig=W3Lv_tfKm3q9phue4k3f4LR1kpg#v=onepage&q&f=false){:target="_blank"}
 
-Gruszczynski, Mike, and Sarah Michaels. 2014. "Localized Concerns, Scientific Argumentation, Framing, and Federalism: The Case of the Devils Lake Water Diversion." [*Journal of Natural Resources Policy Research,* 6(2-3): 173-193.](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1143&context=publicpolicypublications){:target="_blank"}
+**Gruszczynski, Mike**, and Sarah Michaels. 2014. "Localized Concerns, Scientific Argumentation, Framing, and Federalism: The Case of the Devils Lake Water Diversion." [*Journal of Natural Resources Policy Research,* 6(2-3): 173-193.](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1143&context=publicpolicypublications){:target="_blank"}
 
-Gruszczynski, Mike, Amanda Balzer, Carly M. Jacobs, Kevin B. Smith, and John R. Hibbing. 2013. "The Physiology of Political Participation." [*Political Behavior,* 35(1): 135-152.](http://link.springer.com/article/10.1007/s11109-012-9197-x){:target="_blank"}
+**Gruszczynski, Mike**, Amanda Balzer (Friesen), Carly M. Jacobs, Kevin B. Smith, and John R. Hibbing. 2013. "The Physiology of Political Participation." [*Political Behavior,* 35(1): 135-152.](http://link.springer.com/article/10.1007/s11109-012-9197-x){:target="_blank"}
 
-Gruszczynski, Mike, and Sarah Michaels. 2012. "The Evolution of Elite Framing Following Enactment of Legislation." [*Policy Sciences,* 45(4): 359-384.](http://link.springer.com/article/10.1007/s11077-012-9153-y){:target="_blank"}
+**Gruszczynski, Mike**, and Sarah Michaels. 2012. "The Evolution of Elite Framing Following Enactment of Legislation." [*Policy Sciences,* 45(4): 359-384.](http://link.springer.com/article/10.1007/s11077-012-9153-y){:target="_blank"}
 
-Dodd, Michael D., Amanda Balzer, Carly M. Jacobs, Michael W. Gruszczynski, Kevin B. Smith, and John R. Hibbing. 2012. "The Political Left Rolls with the Good and the Political Right Confronts the Bad: Connecting Physiology and Cognition to Preferences." [*Philosophical Transactions of the Royal Society of London: Biological Sciences,* 367: 640-649.](http://rstb.royalsocietypublishing.org/content/367/1589/640.short){:target="_blank"}
+Dodd, Michael D., Amanda Balzer, Carly M. Jacobs, **Mike Gruszczynski**, Kevin B. Smith, and John R. Hibbing. 2012. "The Political Left Rolls with the Good and the Political Right Confronts the Bad: Connecting Physiology and Cognition to Preferences." [*Philosophical Transactions of the Royal Society of London: Biological Sciences,* 367: 640-649.](http://rstb.royalsocietypublishing.org/content/367/1589/640.short){:target="_blank"}
 
 
 **Book Contracts**  
