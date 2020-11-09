@@ -69,7 +69,7 @@ University of Nebraska at Kearney
 
 **Peer-Reviewed Publications** 
 
-Geiger, Nathaniel, Michael H. Pasek, Mike Gruszczynski, Nathaniel J. Ratcliff, and Kevin S. Weaver. "Political Ingroup Conformity and Pro-Environmental Behavior: Evaluating the Evidence from a Survey and Mousetracking Experiments." Forthcoming in *Journal of Environmental Psychology.*  
+Geiger, Nathaniel, Michael H. Pasek, Mike Gruszczynski, Nathaniel J. Ratcliff, and Kevin S. Weaver. "Political Ingroup Conformity and Pro-Environmental Behavior: Evaluating the Evidence from a Survey and Mousetracking Experiments." [Pre-press; forthcoming in *Journal of Environmental Psychology.*](https://www.sciencedirect.com/science/article/abs/pii/S0272494420306897){:target="_blank"}  
 
 Geiger, Nathaniel, Janet Swim, and Mike Gruszczynski. "Political Psychology and the Climate Crisis." Forthcoming chapter in *Cambridge Handbook of Political Psychology.*  
 
