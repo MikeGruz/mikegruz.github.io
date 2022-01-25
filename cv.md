@@ -69,11 +69,9 @@ University of Nebraska at Kearney
 
 **Peer-Reviewed Publications** 
 
-Comfort, Suzannah E., **Mike Gruszczynski**, and Nicholas Browning. "Building the Science News Agenda: The Permeability of Science Journalism to Public Relations." Forthcoming in *Journalism & Mass Communication Quarterly.*  
+Comfort, Suzannah E., **Mike Gruszczynski**, and Nicholas Browning. 2022. "Building the Science News Agenda: The Permeability of Science Journalism to Public Relations." [*Journalism & Mass Communication Quarterly (Online First).*](https://doi.org/10.1177/10776990211047949){:target="_blank"}  
 
-Geiger, Nathaniel, Michael H. Pasek, **Mike Gruszczynski**, Nathaniel J. Ratcliff, and Kevin S. Weaver. "Political Ingroup Conformity and Pro-Environmental Behavior: Evaluating the Evidence from a Survey and Mousetracking Experiments." [Pre-press; forthcoming in *Journal of Environmental Psychology.*](https://www.sciencedirect.com/science/article/abs/pii/S0272494420306897){:target="_blank"}  
-
-Geiger, Nathaniel, **Mike Gruszczynski**, and Janet Swim. "Political Psychology and the Climate Crisis." Forthcoming chapter in *Cambridge Handbook of Political Psychology.*  
+Geiger, Nathaniel, Michael H. Pasek, **Mike Gruszczynski**, Nathaniel J. Ratcliff, and Kevin S. Weaver. "Political Ingroup Conformity and Pro-Environmental Behavior: Evaluating the Evidence from a Survey and Mousetracking Experiments." [Pre-press; forthcoming in *Journal of Environmental Psychology.*](https://www.sciencedirect.com/science/article/abs/pii/S0272494420306897){:target="_blank"}   
 
 **Gruszczynski, Mike**. 2020. "How Media Storms and Topic Diversity Influence Agenda Fragmentation." [*International Journal of Communication* 14: 4599-4620.](https://ijoc.org/index.php/ijoc/article/view/13267){:target="_blank"}  
 
@@ -103,7 +101,10 @@ Wagner, Michael W., and **Mike Gruszczynski**. 2016. "When Framing Matters: How 
 
 **Gruszczynski, Mike**, and Sarah Michaels. 2012. "The Evolution of Elite Framing Following Enactment of Legislation." [*Policy Sciences,* 45(4): 359-384.](http://link.springer.com/article/10.1007/s11077-012-9153-y){:target="_blank"}
 
-Dodd, Michael D., Amanda Balzer, Carly M. Jacobs, **Mike Gruszczynski**, Kevin B. Smith, and John R. Hibbing. 2012. "The Political Left Rolls with the Good and the Political Right Confronts the Bad: Connecting Physiology and Cognition to Preferences." [*Philosophical Transactions of the Royal Society of London: Biological Sciences,* 367: 640-649.](http://rstb.royalsocietypublishing.org/content/367/1589/640.short){:target="_blank"}
+Dodd, Michael D., Amanda Balzer, Carly M. Jacobs, **Mike Gruszczynski**, Kevin B. Smith, and John R. Hibbing. 2012. "The Political Left Rolls with the Good and the Political Right Confronts the Bad: Connecting Physiology and Cognition to Preferences." [*Philosophical Transactions of the Royal Society of London: Biological Sciences,* 367: 640-649.](http://rstb.royalsocietypublishing.org/content/367/1589/640.short){:target="_blank"}  
+
+**Book Chapters**  
+Geiger, Nathaniel, **Mike Gruszczynski**, and Janet Swim. "Political Psychology and the Climate Crisis." Forthcoming chapter in *Cambridge Handbook of Political Psychology.*  
 
 
 **Book Contracts**  
