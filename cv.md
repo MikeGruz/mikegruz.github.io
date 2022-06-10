@@ -69,6 +69,8 @@ University of Nebraska at Kearney
 
 **Peer-Reviewed Publications** 
 
+**Gruszczynski, Mike**, Danielle K. Brown, Haley Pierce, and Maria E. Grabe. "Facing the Competition: Gender differences in Facial Emotion and Prominence in Visual News Coverage of Democratic Presidential Primary Candidates." In press at *Journalism & Mass Communication Quarterly.*  
+
 Comfort, Suzannah E., **Mike Gruszczynski**, and Nicholas Browning. 2022. "Building the Science News Agenda: The Permeability of Science Journalism to Public Relations." [*Journalism & Mass Communication Quarterly (Online First).*](https://doi.org/10.1177/10776990211047949){:target="_blank"}  
 
 Geiger, Nathaniel, Michael H. Pasek, **Mike Gruszczynski**, Nathaniel J. Ratcliff, and Kevin S. Weaver. "Political Ingroup Conformity and Pro-Environmental Behavior: Evaluating the Evidence from a Survey and Mousetracking Experiments." [Pre-press; forthcoming in *Journal of Environmental Psychology.*](https://www.sciencedirect.com/science/article/abs/pii/S0272494420306897){:target="_blank"}   
