@@ -71,7 +71,7 @@ University of Nebraska at Kearney
 
 Hunt, Kate, and **Mike Gruszczynski.** 2023. “‘Horizontal’ Two-Step Flow: The Role of Opinion Leaders in Directing Attention to Social Movements in Decentralized Information Environments.” [*Mass Communication and Society (Online First).*](https://www.tandfonline.com/doi/abs/10.1080/15205436.2023.2167663){:target="_blank"}  
 
-**Gruszczynski, Mike**, Danielle K. Brown, Haley Pierce, and Maria E. Grabe. "Facing the Competition: Gender differences in Facial Emotion and Prominence in Visual News Coverage of Democratic Presidential Primary Candidates." [*Journalism & Mass Communication Quarterly (Online First).*](https://journals.sagepub.com/doi/abs/10.1177/10776990221124944){:target="_blank"}  
+**Gruszczynski, Mike**, Danielle K. Brown, Haley Pierce, and Maria E. Grabe. 2022. "Facing the Competition: Gender differences in Facial Emotion and Prominence in Visual News Coverage of Democratic Presidential Primary Candidates." [*Journalism & Mass Communication Quarterly (Online First).*](https://journals.sagepub.com/doi/abs/10.1177/10776990221124944){:target="_blank"}  
   
 
 Comfort, Suzannah E., **Mike Gruszczynski**, and Nicholas Browning. 2022. "Building the Science News Agenda: The Permeability of Science Journalism to Public Relations." [*Journalism & Mass Communication Quarterly (Online First).*](https://doi.org/10.1177/10776990211047949){:target="_blank"}  
